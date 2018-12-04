@@ -1,0 +1,15 @@
+.nope {
+    display: none;
+}
+
+.tile {
+    text-align: center;
+    line-height: 400%;
+    color: black;
+    margin-bottom: -27px!important;
+}
+
+.empty {
+    border: none!important;
+    background-color: inherit!important;
+}
